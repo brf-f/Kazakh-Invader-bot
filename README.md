@@ -57,4 +57,6 @@ This game is the sequel to Khanquest: The Rise. You play as <b>Temujin</b>, comm
  <br>
  Each time there is movement between rooms the game checks if the user is in a room that contains a special action that has to be run
  
-<h4> Gamedata and Active games with the channels they are running in, amongst other data are stored in sqlite tables in databases saved on the host PC </h4>
+ <br><br>
+ 
+<h4> Gamedata and Active games with the channels they are running in, amongst other data is stored in sqlite tables in databases saved on the host PC </h4>
