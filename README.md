@@ -1,7 +1,9 @@
 # Kazakh Invader bot
  A discord bot for discord friend groups.
 
-<h6>If you want to use this bot for yourself you will have to run it yourself either locally or through a hosting service</h6>
+<h5> You can invite the bot to your server with this link: https://discord.com/api/oauth2/authorize?client_id=1099669706446753904&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A53134&response_type=code&scope=bot%20messages.read%20applications.commands </h5>
+
+<h3>If you want to use this bot for yourself you will have to run it yourself either locally or through a hosting service</h3>
 
 <h2> How to run this bot </h2>
 
@@ -10,6 +12,7 @@ To run this bot you will need to install the following libraries with <br>
 from your console
 
 <ol>
+ <li><sub><sup>test</sup></sub></li>
 <li>datetime</li>
 <li>table2ascii</li>
 <li>aiohttp</li>
