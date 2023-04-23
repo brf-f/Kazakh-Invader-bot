@@ -7,8 +7,9 @@
 
 <h2> How to run this bot </h2>
 
-To run this bot you will need to install the following libraries: <h6>  - test  -datetime  -table2ascii  -aiohttp  -emoji  -pyrandmeme  -requests  -discord  -discord.py  -dotenv  -asyncio  </h6>
-<br>
+To run this bot you will need to install the following libraries: 
+<h6>  - test  -datetime  -table2ascii  -aiohttp  -emoji  -pyrandmeme  -requests  -discord  -discord.py  -dotenv  -asyncio  </h6>
+
 <h3> With </h3> <code class = "language-html"> pip install library</code> <br>
 from your console
 
