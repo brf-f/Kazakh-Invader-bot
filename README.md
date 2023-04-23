@@ -5,7 +5,7 @@
 
 <h3>If you want to use this bot for yourself you will have to run it yourself either locally or through a hosting service</h3>
 
-<h2> How to run this bot </h2>
+<h1> How to run this bot </h1>
 
 To run this bot you will need to install the following libraries: 
 <h6>  - test  -datetime  -table2ascii  -aiohttp  -emoji  -pyrandmeme  -requests  -discord  -discord.py  -dotenv  -asyncio  </h6>
@@ -25,7 +25,14 @@ from your console
 <li>Change the folder location in the variable KazakInvader_location</li>
 </ol>
 
+<br>
+<h4> You can now run the bot with</h4>
+<code class = "language-html"> python bot.py</code>
+<h5>from your terminal</h5>
+<h6>make sure you are located in the correct directory first</h6>
 
+
+<br><br>
 <h1>Khanquest</h1>
 <h4>The bot includes a text-based game called Khanquest II: The forbidden Yurt</h4>
 <h5>This game is the sequel to Khanquest: The Rise. You play as Temujin, commonly known as Gengis Khan after his succesfull Rise to power</h5>
