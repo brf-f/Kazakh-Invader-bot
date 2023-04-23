@@ -11,10 +11,10 @@ To run this bot you will need to install the following libraries with <br>
 <code class = "language-html"> pip install library</code> <br>
 from your console
 
-<h6>  - test  -datetime  -table2ascii  -aiohttp  -emoji  -pyrandmeme  -requests  -discord  -discord.py  -dotenv  -asyncio  </h6>
+<h5>  - test  -datetime  -table2ascii  -aiohttp  -emoji  -pyrandmeme  -requests  -discord  -discord.py  -dotenv  -asyncio  </h5>
 
 
-<h6> You will need to make a few edits to the code for the bot to work fully in your server</h6>
+<h3> You will need to make a few edits to the code for the bot to work fully in your server</h6>
 
 <ol>
 <li>theres a Trivia section where you can change the questions if you want</li>
