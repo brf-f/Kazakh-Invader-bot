@@ -12,7 +12,7 @@ To run this bot you will need to install the following libraries with <br>
 from your console
 
 <ol>
- <li><sub><sup>test</sup></sub></li>
+<sub><sup>* test</sup></sub></li>
 <li>datetime</li>
 <li>table2ascii</li>
 <li>aiohttp</li>
