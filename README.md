@@ -41,5 +41,5 @@ This game is the sequel to Khanquest: The Rise. You play as <b>Temujin</b>, comm
  
 <br><br>
  <h3>Map:</h3>
-![Khanquest_ The forbidden Yurt](https://user-images.githubusercontent.com/95595686/233846355-f348d1f4-5b9d-445a-8639-c5f63bdc705c.jpg)
+<img src = "https://user-images.githubusercontent.com/95595686/233846355-f348d1f4-5b9d-445a-8639-c5f63bdc705c.jpg">
 <img src = "map.png">
