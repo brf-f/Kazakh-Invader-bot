@@ -36,5 +36,10 @@ from your console
 <h1>Khanquest</h1>
 <h4>The bot includes a text-based game called Khanquest II: The forbidden Yurt</h4>
 This game is the sequel to Khanquest: The Rise. You play as <b>Temujin</b>, commonly known as <em>Gengis Khan</em> after his succesfull Rise to power
-<br>
+<br><br>
 <em>You are Genghis Khan, the Emperor of the Mongol Empire, on a quest to uncover the secrets of the forbidden Yurt. As the greatest conqueror of your time, you must navigate through treacherous terrain and outwit your enemies to find the ultimate prize: the Eagle of Life and the Horse of Power. Navigate between rooms to find new challenges and minigames such as Eagle Hunting, which will give you the tools required on your journey.<em>
+ 
+<br><br>
+ <h3>Map:</h3>
+![Khanquest_ The forbidden Yurt](https://user-images.githubusercontent.com/95595686/233846355-f348d1f4-5b9d-445a-8639-c5f63bdc705c.jpg)
+![map](https://user-images.githubusercontent.com/95595686/233846390-a702f95d-a694-4bc9-805f-af771d1acc89.png)
