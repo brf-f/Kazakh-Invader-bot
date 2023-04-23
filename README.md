@@ -11,19 +11,7 @@ To run this bot you will need to install the following libraries with <br>
 <code class = "language-html"> pip install library</code> <br>
 from your console
 
-<code class = "language-html">
-<sub>- test</sub>
-<sub>-datetime</sub>
-<sub>-table2ascii</sub>
-<sub>-aiohttp</sub>
-<sub>-emoji</sub>
-<sub>-pyrandmeme</sub>
-<sub>-requests</sub>
-<sub>-discord</sub>
-<sub>-discord.py</sub>
-<sub>-dotenv</sub>
-<sub>-asyncio</sub>
-</code>
+<code class = "language-html">  <sub>- test</sub>  <sub>-datetime</sub>  <sub>-table2ascii</sub>  <sub>-aiohttp</sub>  <sub>-emoji</sub>  <sub>-pyrandmeme</sub>  <sub>-requests</sub>  <sub>-discord</sub>  <sub>-discord.py</sub>  <sub>-dotenv</sub>  <sub>-asyncio</sub>  </code>
 
 
 <h6> You will need to make a few edits to the code for the bot to work fully in your server</h6>
