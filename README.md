@@ -12,17 +12,17 @@ To run this bot you will need to install the following libraries with <br>
 from your console
 
 <ol>
-<sub>* test</sub>
-<li>datetime</li>
-<li>table2ascii</li>
-<li>aiohttp</li>
-<li>emoji</li>
-<li>pyrandmeme</li>
-<li>requests</li>
-<li>discord</li>
-<li>discord.py</li>
-<li>dotenv</li>
-<li>asyncio</li>
+<sub>- test</sub>
+<sub>-datetime</sub>
+<sub>-table2ascii</sub>
+<sub>-aiohttp</sub>
+<sub>-emoji</sub>
+<sub>-pyrandmeme</sub>
+<sub>-requests</sub>
+<sub>-discord</sub>
+<sub>-discord.py</sub>
+<sub>-dotenv</sub>
+<sub>-asyncio</sub>
 </ol>
 
 
