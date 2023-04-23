@@ -26,9 +26,9 @@ from your console
 </ol>
 
 <br>
-<h3> You can now run the bot with</h4>
+<h2> You can now run the bot with</h2>
 <code class = "language-html"> python bot.py</code>
-<h4>from your terminal</h5>
+<h3>from your terminal</h3>
 <h6>make sure you are located in the correct directory first</h6>
 
 
