@@ -43,3 +43,18 @@ This game is the sequel to Khanquest: The Rise. You play as <b>Temujin</b>, comm
  <h3>Map:</h3>
 <img src = "https://user-images.githubusercontent.com/95595686/233846355-f348d1f4-5b9d-445a-8639-c5f63bdc705c.jpg">
 <img src = "map.png">
+ 
+ <h1>Planning</h1>
+ <br>
+  <h5>Khanquest creates a channel that only the player can see when the command is run. The game is then played through this channel</h5>
+ Every time there is a message in that channel the bot checks to see if it is a possible command from the correct user for that channel's game then runs the correct action for that input if it is valid
+  <br>
+ This had to be done as the bot needs to register actions and let the user play the game normally while the bot still processes other commands and games from other users.
+ 
+ <br><br>
+ <h5>Khanquest movement uses a list that stores all rooms as a grid on an x and y axis, there is then another list that stores the player's current x position and y position</h5>
+ Each room is then a class containing a string for the look command and the name of the room as well as if there is any special action in this room
+ <br>
+ Each time there is movement between rooms the game checks if the user is in a room that contains a special action that has to be run
+ 
+<h4> Gamedata and Active games with the channels they are running in, amongst other data are stored in sqlite tables in databases saved on the host PC </h4>
