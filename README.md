@@ -13,7 +13,7 @@ To run this bot you will need to install the following libraries:
 <h3> With </h3> <code class = "language-html"> pip install library</code> <br>
 from your console
 
-
+<br><br>
 <h3> You will need to make a few edits to the code for the bot to work fully in your server</h6>
 
 <ol>
@@ -24,3 +24,10 @@ from your console
 <li>You can set the general and bot channels IDs in the on_ready function</li>
 <li>Change the folder location in the variable KazakInvader_location</li>
 </ol>
+
+
+<h1>Khanquest</h1>
+<h4>The bot includes a text-based game called Khanquest II: The forbidden Yurt</h4>
+<h5>This game is the sequel to Khanquest: The Rise. You play as Temujin, commonly known as Gengis Khan after his succesfull Rise to power</h5>
+<br>
+You are Genghis Khan, the Emperor of the Mongol Empire, on a quest to uncover the secrets of the forbidden Yurt. As the greatest conqueror of your time, you must navigate through treacherous terrain and outwit your enemies to find the ultimate prize: the Eagle of Life and the Horse of Power. Navigate between rooms to find new challenges and minigames such as Eagle Hunting, which will give you the tools required on your journey.
