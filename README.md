@@ -1,11 +1,22 @@
 # Kazakh Invader bot
  A discord bot for discord friend groups.
+ 
+ # How to run it
+You first have to create an application in the Discord Developer portal and get a token from there. Put the token in the .env file.
+<br>
+<h4>Required scopes:</h4>
+<ul>
+ <li>bot</li>
+ <li>messages.read</li>
+ <li>applications.commands</li>
+ </ul>
+ <br>
+ <h6>You will need to create a redirect url as well. You can use: http://localhost:53134 </h6>
 
-<h5> You can invite the bot to your server with this link: https://discord.com/api/oauth2/authorize?client_id=1099669706446753904&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A53134&response_type=code&scope=bot%20messages.read%20applications.commands </h5>
-
-<h3>If you want to use this bot for yourself you will have to run it yourself either locally or through a hosting service</h3>
 
 <h1> How to run this bot </h1>
+
+<h3>If you want to use this bot for yourself you will have to run it yourself either locally or through a hosting service</h3>
 
 To run this bot you will need to install the following libraries: 
 <h6>  - test  -datetime  -table2ascii  -aiohttp  -emoji  -pyrandmeme  -requests  -discord  -discord.py  -dotenv  -asyncio  </h6>
