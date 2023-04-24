@@ -1,4 +1,4 @@
-# bot.py
+# public bot.py
 import datetime
 import os
 import random
