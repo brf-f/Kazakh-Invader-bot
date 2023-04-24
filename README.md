@@ -1,6 +1,8 @@
 # Kazakh Invader bot
  A discord bot for discord friend groups.
  
+ <h6>This is just the public version of the bot, some features may have been changed and/or removed compared to the real version to hide sensitive information</h6>
+ 
  # How to run it
 You first have to create an application in the Discord Developer portal and get a token from there. Put the token in the .env file.
 <br>
